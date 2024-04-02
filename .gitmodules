@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "poilog"]
 	path = poilog
-	url = https://github.com/cran/poilog
+	url = https://github.com/vidargrotan/poilog
